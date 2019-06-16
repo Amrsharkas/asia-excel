@@ -1,0 +1,3 @@
+Multiple date_joined and date_left
+Fix dates 
+date_left is the date of the latest session

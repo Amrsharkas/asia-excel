@@ -1,0 +1,75 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [homework_comp] => 
+            [count(*)] => 5707
+        )
+
+    [1] => stdClass Object
+        (
+            [homework_comp] => -
+            [count(*)] => 2
+        )
+
+    [2] => stdClass Object
+        (
+            [homework_comp] => excellent
+            [count(*)] => 2
+        )
+
+    [3] => stdClass Object
+        (
+            [homework_comp] => Good
+            [count(*)] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [homework_comp] => N/A
+            [count(*)] => 172
+        )
+
+    [5] => stdClass Object
+        (
+            [homework_comp] => nazeat all of it
+            [count(*)] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [homework_comp] => No
+            [count(*)] => 817
+        )
+
+    [7] => stdClass Object
+        (
+            [homework_comp] => very good
+            [count(*)] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [homework_comp] => Yes
+            [count(*)] => 10044
+        )
+
+    [9] => stdClass Object
+        (
+            [homework_comp] => Yes 
+            [count(*)] => 3
+        )
+
+    [10] => stdClass Object
+        (
+            [homework_comp] => إYes
+            [count(*)] => 1
+        )
+
+    [11] => stdClass Object
+        (
+            [homework_comp] => نعم
+            [count(*)] => 1
+        )
+
+)
